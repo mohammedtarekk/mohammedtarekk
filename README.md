@@ -14,8 +14,6 @@ Mohamed</a>
 
 - 🔭 I’m currently working as Software Engineer at <a href="https://te.eg" target="blank">WE</a>
 
-- 🤝 I’m available for freelancing.
-
 - 📫 How to reach me **mohammedtarek74@yahoo.com**
 
 <br/>
