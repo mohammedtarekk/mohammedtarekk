@@ -12,7 +12,7 @@ Mohamed</a>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as Software Engineer at <a href="https://te.eg" target="blank">WE</a>
+- 🔭 I’m currently working as Software Engineer II at <a href="https://dxc.com/" target="blank">DXC Technology</a>
 
 - 📫 How to reach me **mohammedtarek74@yahoo.com**
 
